@@ -6,7 +6,7 @@ import java.util.Scanner;
 import com.model.Student;
 import com.service.StudentService;
 import com.service.StudentServiceImp;
-
+//cmt
 public class Run {
 	 public static void main(String[] args) {
 		
